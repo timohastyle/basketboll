@@ -1,0 +1,23 @@
+.bas {
+    width: 740px;
+    margin: 0 auto;
+}
+.bas__h1 {
+    font-family: 'Nosifer',sans-serif ;
+    margin-left: 250px;
+}
+.bas__img {
+    margin-left:260px ;
+}
+.bas__p {
+    width: 310px;
+    margin-left:170px ;
+}
+.bas__img2 {
+    margin-left:35px;
+    margin-right: 35px;
+    padding: 30px;
+}
+.bas__img3 { 
+    height: 190px;
+}
